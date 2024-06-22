@@ -1,0 +1,13 @@
+prompt:
+
+zhjrobot,emauromin style,weapons, green color, aggressive, futuristic rounded robot,car, finely detailed, purism, ue 5, a computer rendering, minimalism, octane render, 4k <lora:zhjrobot_lora:1.5>  <lora:eddiemauroLora2:0.9>
+
+
+
+
+
+
+
+negative prompt:
+
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, bad_prompt, bad_prompt2, ((monochrome)), ((grayscale)), cropped, text, jpeg artifacts, signature, watermark, username, EasyNegative,sketch, cartoon, drawing, anime, duplicate, blurry, semi-realistic, out of frame, worst quality, ugly, low quality, deformed, multiple objects
